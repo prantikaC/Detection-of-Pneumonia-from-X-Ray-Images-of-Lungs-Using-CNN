@@ -28,3 +28,7 @@ Loss function: binary crossentropy;
 Optimiser: Adam with 0.001 learning rate;
 
 Activation fucntion: reLU in all layers except for the last one which uses sigmoid;
+
+# Pre- processing
+
+Please rename "train_NORMAL" and "train_PNEUMONIA" to "NORMAL" and "PNEUMONIA" instead and put the two folders in a single forlder called "train"
