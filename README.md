@@ -31,4 +31,6 @@ Activation fucntion: reLU in all layers except for the last one which uses sigmo
 
 # Pre- processing
 
-Please rename "train_NORMAL" and "train_PNEUMONIA" to "NORMAL" and "PNEUMONIA" instead and put the two folders in a single folder called "train"
+Please rename "train_NORMAL" and "train_PNEUMONIA" to "NORMAL" and "PNEUMONIA" instead and put the two folders in a single folder called "train".
+
+After that put, "train" and "test" into a new folder named "xray_dataset_covid19".
